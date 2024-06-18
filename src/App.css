@@ -1,0 +1,63 @@
+/*_____________________PRE DEFINICIONES_____________________*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(255, 248, 232);
+  color: rgb(32, 32, 32);
+}
+
+ul {
+  list-style: none;
+}
+
+input,
+button {
+  background-color: rgb(255, 232, 232);
+  color: rgb(0, 112, 112);
+  font-weight: 800;
+  display: inline-block;
+  cursor: pointer;
+  font-family: inherit;
+  text-align: center;
+  border-radius: 5px;
+}
+
+input {
+  padding: 5px;
+  border: 2px solid #606060;
+  color: rgb(17, 136, 255);
+}
+
+button {
+  border: none;
+  padding: 3px 9px;
+  border: 1px solid rgb(68, 68, 68);
+}
+
+button:hover {
+  border: 1px solid rgb(145, 0, 0);
+  background-color: rgb(255, 246, 78);
+}
+
+
+/*___________________________APP_______________________*/
+.app__header {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.app__container {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 20px;
+}
