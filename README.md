@@ -1,3 +1,19 @@
+# Crud Users App
+
+Esta es una aplicación web en la que es posible agregar, editar y eliminar información sobre los nombres, correo, contraseña y fecha de nacimiento de diferentes usuarios.
+
+# Contribución
+
+Te invito a que seas parte de mi proyecto contribuyendo con tus ideas. Si es así, es posible abrir un issue para discutir nuevas características o solucionar problemas. También podrías enviar un pull request con tu propuesta.
+
+# Contacto
+
+Si deseas conversar sobre mi proyecti o requieres algún tipo de consultoría, puedes contactarme a través de la información que aparece en https://diego-felipe-gomez.netlify.app/#contact.
+
+# Agradecimientos
+
+Gracias por visitar mi proyecto 💻. !Hasta una próxima oportunidad! 👋🏼
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
